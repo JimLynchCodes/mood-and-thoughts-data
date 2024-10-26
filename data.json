@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "text": "A stranger smiled at you.",
+        "moodImpact": 100,
+        "timeToProcess": 5
+    },
+    {
+        "id": 2,
+        "text": "You got some extra french fries for free.",
+        "moodImpact": 150,
+        "timeToProcess": 7
+    },
+    {
+        "id": 3,
+        "text": "You got a complement on your new haircut.",
+        "moodImpact": 250,
+        "timeToProcess": 15
+    },
+    {
+        "id": 4,
+        "text": "You won the lottery.",
+        "moodImpact": 950,
+        "timeToProcess": 200
+    },
+    {
+        "id": 5,
+        "text": "You stubbed your toe.",
+        "moodImpact": -50,
+        "timeToProcess": 10
+    },
+    {
+        "id": 6,
+        "text": "A bully takes your lunch money.",
+        "moodImpact": -400,
+        "timeToProcess": 30
+    },
+    {
+        "id": 7,
+        "text": "Your grandma died.",
+        "moodImpact": -900,
+        "timeToProcess": 40
+    },
+    {
+        "id": 8,
+        "text": "You become paralyzed from the neck down.",
+        "moodImpact": -999,
+        "timeToProcess": 1000
+    }
+]

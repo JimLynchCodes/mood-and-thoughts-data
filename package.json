@@ -1,0 +1,20 @@
+{
+  "name": "mood-and-thoughts-data",
+  "version": "1.0.0",
+  "description": "Work in progress stuff for a game jam...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JimLynchCodes/mood-and-thoughts-data.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JimLynchCodes/mood-and-thoughts-data/issues"
+  },
+  "homepage": "https://github.com/JimLynchCodes/mood-and-thoughts-data#readme"
+}
