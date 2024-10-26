@@ -1,2 +1,3 @@
 # mood-and-thoughts-data
-nothing to see here! 😉
+
+Work in progress stuff for a game jam...
